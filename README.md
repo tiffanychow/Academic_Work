@@ -1,1 +1,1 @@
-# This folder contains previously completed academic studies.
+This folder contains previously completed academic studies.
